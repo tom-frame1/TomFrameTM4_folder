@@ -1,0 +1,20 @@
+/* setting font-family and font-size for heading class */
+.heading {	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+}
+/* setting font-family and font-size for heading2 class */
+.heading2 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15pt;
+}
+/* setting font-family and font-size for table class */
+.table {
+
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px; 
+	
+}
+
+
+
